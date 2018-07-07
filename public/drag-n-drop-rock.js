@@ -1,5 +1,5 @@
 
-interact('.resize-drag')
+interact('.rock')
   .draggable({
     onmove: dragMoveListener,
   });
